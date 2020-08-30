@@ -11,7 +11,7 @@ Rode o seguinte comando no *prompt/terminal* para clonar o projeto:
 
 Ao descompactar, não é necessário rodar o **composer** pois os arquivos já estão ai.
 
-Caso queira pode roda um *composer update*
+Caso queira pode roda um *composer update*.
 Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
 > composer update
 
