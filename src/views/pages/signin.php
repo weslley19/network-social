@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Login - DevsBook</title>
+    <title>Login - Network Social</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
     <link rel="stylesheet" href="<?= $base; ?>/assets/css/login.css" />
 </head>
@@ -12,7 +12,7 @@
     <header>
         <div class="container">
             <a href="<?php $base ?>">
-                <h1 class="logo">Devsbook</h1>
+                <h1 class="logo">Network Social</h1>
             </a>
         </div>
     </header>
