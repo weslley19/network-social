@@ -7,12 +7,13 @@ O objetivo deste projeto é servir como base para a disciplina de Projeto de Ci�
 Você pode clonar este repositório ou baixar o .zip
 
 Rode o seguinte comando no *prompt/terminal* para clonar o projeto:
-> git clone https://github.com/weslley19/network-social.git
+> git clone <span>https://github.com/weslley19/network-social.git</span>
 
-Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
+Ao descompactar, não é necessário rodar o **composer** pois os arquivos já estão ai.
 
+Caso queira pode roda um *composer update*.
 Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
-> composer install
+> composer update
 
 Depois é só aguardar.
 
