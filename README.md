@@ -25,6 +25,9 @@ As configurações de Banco de Dados e URL estão no arquivo *src/Config.php*
 É importante configurar corretamente a constante *BASE_DIR* que é a URL do projeto:
 > const BASE_DIR = '/**PastaDoProjeto**/public';
 
+
+O arquivo de banco de dados é *id14297957_devsbook(1).sql*. Rode no seu SGBD
+
 ## Uso
 Você deve acessar a pasta *public* do projeto.
 
