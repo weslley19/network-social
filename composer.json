@@ -1,0 +1,22 @@
+{
+    "name": "weslley19/network-social",
+    "description": "O objetivo deste projeto é servir como base para a disciplina de Projeto de Ciência da Computação na Estácio.",
+    "homepage": "https://weslley19.github.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Weslley Oliveira",
+            "email": "weslleyoliveira258@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "clancats/hydrahon": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/",
+            "src\\": "src/"
+        }
+    }
+}
